@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: ankisile/node-app:1.0
+        images: ankisile/node-app:f4eac6004212ca9f5c3f8fa47abe367377972c8f
         resources:
           limits:
             memory: "128Mi"
