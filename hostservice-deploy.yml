@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: ankisile/hostservice:08ddf14c6f5bbfcec16845273c8ed41a8fb444f5
+        image: ankisile/hostservice:432978bab68030237c0f740aff2e325dbfbe732e
         ports:
         - containerPort: 8080
